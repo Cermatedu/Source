@@ -1,4 +1,4 @@
-baseurl = "/Source"
+baseurl = "https://github.com/Cermatedu/Source"
 metaDataFormat = "yaml"
 title = "Blist Multilingual Theme"
 theme = "blist"
@@ -48,7 +48,7 @@ DefaultContentLanguageInSubdir = true
       logo = "/blist-logo-de.png"
     [[languages.de.menu.main]]
         name = "Blog"
-        url = "blog"
+        url = "https://github.com/Cermatedu/Source"
         weight = 1
 
     [[languages.de.menu.main]]
@@ -148,7 +148,7 @@ DefaultContentLanguageInSubdir = true
 
   # Options for giscus, exclude hyphens
   repo = ""
-  repoid = ""
+  repoid = "https://github.com/Cermatedu/Source"
   category = ""
   categoryid = ""
   mapping = ""
@@ -159,7 +159,7 @@ DefaultContentLanguageInSubdir = true
   theme = ""
 
   # Options for utterances, exclude hyphens
-  # repo = ""
+  # repo = "https://github.com/Cermatedu/Source"
   # issueterm = ""
   # theme = ""
 
